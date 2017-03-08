@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Russet.PathShala.Domain</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Sandeep Sihari</authors>
+    <owners>Russet Technology Solutions LLP</owners>
+    <licenseUrl>https://gitlab.com/kumarsandeep91/PathShala/tree/master/PathShala.Domain</licenseUrl>
+    <projectUrl>https://gitlab.com/kumarsandeep91/PathShala/tree/master/PathShala.Domain</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>PathShala domain model library.</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>School College University Russet</tags>
+  </metadata>
+</package>
